@@ -34,6 +34,8 @@ DOM Manipulation: JavaScript is used to dynamically update the DOM based on user
 Event Handling: Event listeners are attached to buttons and list items to handle user actions.
 Array Management: JavaScript arrays are used to store and manage the list of shopping items.
 # credits
+
+ ```https://bigman234.github.io/Interactive-shopping-list/```
 This project was inspired by the need for a simple yet interactive shopping list application.
 Developed by DANIEL KIPKURUI BUNDOTICH
 # licenses
